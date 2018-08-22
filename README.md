@@ -13,3 +13,6 @@
 
 
 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=8SbUC-UaAxE
+" target="_blank"><img src="http://img.youtube.com/vi/Y8SbUC-UaAxE/0.jpg" 
+alt="november rain" width="240" height="180" border="10" /></a>
