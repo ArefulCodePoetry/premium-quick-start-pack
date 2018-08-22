@@ -1,5 +1,5 @@
-# premium quick start pack
-# This Quickstart has containe js Plugins
+# Premium* quick start pack
+# This Quickstart has contains js Plugins
 
 1. **[Isotope js](https://github.com/metafizzy/isotope)
 2. **[Parallax js](https://github.com/pixelcog/parallax.js/)
